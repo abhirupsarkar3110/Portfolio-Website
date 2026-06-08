@@ -90,6 +90,15 @@ main{
     color: white;
     text-decoration: none;
 }
+#contact{
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: 2px solid black;
+    color: black;
+    text-decoration: none;
+    background: transparent;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -300,7 +309,7 @@ footer{
     #skills{
         padding: 60px 20px;
     }
-    
+
     #about {
         padding: 60px 20px;
     }
